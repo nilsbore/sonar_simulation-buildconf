@@ -9,6 +9,6 @@ export AUTOPROJ_BOOTSTRAP_IGNORE_NONEMPTY_DIR=1
 
 ruby autoproj_install
 . ./env.sh
-autoproj bootstrap git git@github.com:romulogcerqueira/sonar_simulation-buildconf.git
+autoproj bootstrap git git@github.com:nilsbore/sonar_simulation-buildconf.git
 aup
 amake
